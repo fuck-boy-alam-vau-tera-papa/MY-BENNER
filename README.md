@@ -32,6 +32,6 @@
 
 <h1>Screen Shot</h1>
 
-<img src="https://i.ibb.co/gjdbHtG/img1.jpg" alt="img1"><br><img src="https://i.ibb.co/m07vmZm/img2.jpg" alt="img2">
+
 
 
